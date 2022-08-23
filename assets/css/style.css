@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    border: 1px solid gray;
+    background-color: rgb(97, 93, 93);
+    
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    background-color: #000;
+    height: 120px;
+
+}
+
+h1{
+    font-size: 30px;
+}
+
+.menu{
+    display: flex;
+    gap: 20px;
+    margin-right:10px ;
+}
+
+
+a{
+    font-size: 17px;
+    text-decoration: none;
+    color: #fff;
+    transition: 0.3s;
+    
+}
+
+img{
+    height:123px ;
+}
+
+a:hover{
+    color:  rgb(97, 93, 93);
+}
