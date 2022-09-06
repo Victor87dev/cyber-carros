@@ -35,7 +35,7 @@ h1{
 }
 
 
-a{
+.a-menu{
    
     font-size: 17px;
     text-decoration: none;
@@ -48,7 +48,7 @@ img{
     height:123px ;
 }
 
-a:hover{
+.a-menu:hover{
     color:  rgb(97, 93, 93);
 }
 
@@ -259,6 +259,8 @@ h1{
     font-size: 23px;
     margin-top: 20px;
 }
+
+/*Foorte-----------------------------------------------------------------------------------------------------------*/
 
 svg{
         height: 35px;
