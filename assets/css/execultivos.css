@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -48,3 +50,79 @@ img{
 .a-menu:hover{
     color:  rgb(97, 93, 93);
 }
+
+.title{
+    text-align: center;
+    align-items: center;
+    text-shadow: 4px 4px 8px rgb(0, 0, 0);
+    letter-spacing: 4px;
+    color: #fff;
+    font-size: 30px;
+    margin-top: 80px;
+}
+
+/*Conteudo-------------------------------------------------------------------------------------------------------------*/
+
+.caixa-branca{
+    background-color: #fff;
+    width: 70%;
+    height: 750px;
+    margin-left: 50px;
+    margin-top: 200px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px #000;
+    
+}
+
+.container-display-mercedes{
+    display: flex;
+    
+}
+
+.imagens-mercedes{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    
+    
+}
+
+.img-mercedes{
+    width: 480px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px #000;
+    
+}
+
+.title-mercedes{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    align-items: center;
+    letter-spacing: 2px;
+    color: #000;
+    font-size: 35px;
+}
+
+.caixa-text-mercedes{
+    margin-left: 70px;
+    margin-top: 90px;
+}
+
+.text-mercedes{
+    font-family: 'Inter', sans-serif;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    color: #000;
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.buttons{
+    margin-top: 350px;
+}
+
+
+
