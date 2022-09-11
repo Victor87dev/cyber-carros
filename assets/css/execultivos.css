@@ -63,7 +63,7 @@ img{
 
 /*Conteudo-------------------------------------------------------------------------------------------------------------*/
 
-.caixa-branca{
+.caixa-branca-mercedes{
     background-color: #fff;
     width: 70%;
     height: 750px;
@@ -122,7 +122,7 @@ img{
 
 
 
-.buttons{
+.buttons-mercedes{
 margin-top: 260px;
 margin-left: 125px;
 border-radius: 10px;
@@ -145,7 +145,7 @@ border-radius: 10px;
     background: rgb(49, 49, 49);
 }
 
-.input-Number{
+.input-Number-mercedes{
     margin-top: 30px;
     margin-left: 133px;
 }
@@ -161,3 +161,207 @@ input{
 ::placeholder{
     color: #fff;
 }
+
+/*bmw-----------------------------------------------------*/
+
+.caixa-branca-bmw{
+    background-color: #fff;
+    width: 70%;
+    height: 750px;
+    margin-left: 370px;
+    margin-top: 200px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px #000;
+    
+}
+
+.container-display-bmw{
+    display: flex;
+    
+}
+
+.imagens-bmw{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    
+    
+}
+
+.img-bmw{
+    width: 480px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px #000;
+    
+}
+
+.title-bmw{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    align-items: center;
+    letter-spacing: 2px;
+    color: #000;
+    font-size: 35px;
+}
+
+.caixa-text-bmw{
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.text-bmw{
+    font-family: 'Inter', sans-serif;
+    text-shadow: 1px 1px 4px rgb(0, 0, 0);
+    color: #000;
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+
+
+.buttons-bmw{
+margin-top: 260px;
+margin-left: 125px;
+border-radius: 10px;
+}
+
+.buttons-a{
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    border:1px solid gray;
+    color: #fff;
+    padding: 20px 80px;
+    border-radius: 10px;
+    font-size: 20px;
+    background: #000;
+    transition: 0.7s;
+
+}
+
+.buttons-a:hover{
+    background: rgb(49, 49, 49);
+}
+
+.input-Number-bmw{
+    margin-top: 30px;
+    margin-left: 133px;
+}
+
+input{
+    padding: 10px 20px;
+    border: 1px solid gray;
+    color: #fff;
+    background: #000;
+    border-radius: 10px;
+}
+
+::placeholder{
+    color: #fff;
+}
+
+/*corolla*/
+
+.caixa-branca-corolla{
+    background-color: #fff;
+    width: 70%;
+    height: 750px;
+    margin-left: 50px;
+    margin-top: 200px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px #000;
+    
+}
+
+.container-display-corolla{
+    display: flex;
+    
+}
+
+.imagens-corolla{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    
+    
+}
+
+.img-corolla{
+    width: 480px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px #000;
+    
+}
+
+.title-corolla{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    align-items: center;
+    letter-spacing: 2px;
+    color: #000;
+    font-size: 35px;
+}
+
+.caixa-text-corolla{
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.text-corolla{
+    font-family: 'Inter', sans-serif;
+    text-shadow: 1px 1px 4px rgb(0, 0, 0);
+    color: #000;
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+
+
+.buttons-corolla{
+margin-top: 260px;
+margin-left: 125px;
+border-radius: 10px;
+}
+
+.buttons-a{
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    border:1px solid gray;
+    color: #fff;
+    padding: 20px 80px;
+    border-radius: 10px;
+    font-size: 20px;
+    background: #000;
+    transition: 0.7s;
+
+}
+
+.buttons-a:hover{
+    background: rgb(49, 49, 49);
+}
+
+.input-Number-corolla{
+    margin-top: 30px;
+    margin-left: 133px;
+}
+
+input{
+    padding: 10px 20px;
+    border: 1px solid gray;
+    color: #fff;
+    background: #000;
+    border-radius: 10px;
+}
+
+::placeholder{
+    color: #fff;
+}
+
+
