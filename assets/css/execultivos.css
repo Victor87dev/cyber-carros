@@ -108,21 +108,56 @@ img{
 
 .caixa-text-mercedes{
     margin-left: 70px;
-    margin-top: 90px;
+    margin-top: 70px;
 }
 
 .text-mercedes{
     font-family: 'Inter', sans-serif;
-    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    text-shadow: 1px 1px 4px rgb(0, 0, 0);
     color: #000;
     letter-spacing: 1px;
     font-weight: 700;
     font-size: 25px;
 }
 
+
+
 .buttons{
-    margin-top: 350px;
+margin-top: 260px;
+margin-left: 125px;
+border-radius: 10px;
 }
 
+.buttons-a{
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    border:1px solid gray;
+    color: #fff;
+    padding: 20px 80px;
+    border-radius: 10px;
+    font-size: 20px;
+    background: #000;
+    transition: 0.7s;
 
+}
 
+.buttons-a:hover{
+    background: rgb(49, 49, 49);
+}
+
+.input-Number{
+    margin-top: 30px;
+    margin-left: 133px;
+}
+
+input{
+    padding: 10px 20px;
+    border: 1px solid gray;
+    color: #fff;
+    background: #000;
+    border-radius: 10px;
+}
+
+::placeholder{
+    color: #fff;
+}
