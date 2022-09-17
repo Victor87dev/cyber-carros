@@ -53,6 +53,26 @@ img{
     color:  rgb(97, 93, 93);
 }
 
+
+
+.banner{
+    background: url(/assets/img/carros2.jpg) no-repeat center;
+    height: 350px;
+    background-size: cover;
+  
+}
+ 
+
+
+span{
+    color: rgb(111, 207, 207);
+}
+
+.text-banner{
+    font-size: 40px;
+    z-index: 9;
+}
+
 .title{
     margin-top: -20px;
     display: flex;
