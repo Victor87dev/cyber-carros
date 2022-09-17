@@ -365,3 +365,254 @@ input{
     color: #fff;
 }
 
+/*sw4------------------------------------------------------------------------*/
+
+.caixa-branca-sw4{
+    background-color: #fff;
+    width: 70%;
+    height: 750px;
+    margin-left: 370px;
+    margin-top: 200px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px #000;
+    
+}
+
+.container-display-sw4{
+    display: flex;
+    
+}
+
+.imagens-sw4{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    
+    
+}
+
+.img-sw4{
+    width: 480px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px #000;
+    margin-right: 22px;
+    
+}
+
+.title-sw4{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    align-items: center;
+    letter-spacing: 2px;
+    color: #000;
+    font-size: 35px;
+}
+
+.caixa-text-sw4{
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.text-sw4{
+    font-family: 'Inter', sans-serif;
+    text-shadow: 1px 1px 4px rgb(0, 0, 0);
+    color: #000;
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+
+
+.buttons-sw4{
+margin-top: 260px;
+margin-left: 125px;
+border-radius: 10px;
+}
+
+.buttons-a{
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    border:1px solid gray;
+    color: #fff;
+    padding: 20px 80px;
+    border-radius: 10px;
+    font-size: 20px;
+    background: #000;
+    transition: 0.7s;
+
+}
+
+.buttons-a:hover{
+    background: rgb(49, 49, 49);
+}
+
+.input-Number-sw4{
+    margin-top: 30px;
+    margin-left: 133px;
+}
+
+input{
+    padding: 10px 20px;
+    border: 1px solid gray;
+    color: #fff;
+    background: #000;
+    border-radius: 10px;
+}
+
+::placeholder{
+    color: #fff;
+}
+
+/*jeep----------------------------------------------------*/
+
+
+.caixa-branca-jeep{
+    background-color: #fff;
+    width: 70%;
+    height: 750px;
+    margin-left: 50px;
+    margin-top: 200px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px #000;
+    
+}
+
+.container-display-jeep{
+    display: flex;
+    
+}
+
+.imagens-jeep{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    
+    
+}
+
+.img-jeep{
+    width: 480px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px #000;
+    
+}
+
+.title-jeep{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    align-items: center;
+    letter-spacing: 2px;
+    color: #000;
+    font-size: 35px;
+}
+
+.caixa-text-jeep{
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.text-jeep{
+    font-family: 'Inter', sans-serif;
+    text-shadow: 1px 1px 4px rgb(0, 0, 0);
+    color: #000;
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+
+
+.buttons-jeep{
+margin-top: 260px;
+margin-left: 125px;
+border-radius: 10px;
+}
+
+.buttons-a{
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    border:1px solid gray;
+    color: #fff;
+    padding: 20px 80px;
+    border-radius: 10px;
+    font-size: 20px;
+    background: #000;
+    transition: 0.7s;
+
+}
+
+.buttons-a:hover{
+    background: rgb(49, 49, 49);
+}
+
+.input-Number-jeep{
+    margin-top: 30px;
+    margin-left: 133px;
+}
+
+input{
+    padding: 10px 20px;
+    border: 1px solid gray;
+    color: #fff;
+    background: #000;
+    border-radius: 10px;
+}
+
+::placeholder{
+    color: #fff;
+}
+
+
+
+
+/*Footer-----------------------------------------------------------------------------------------------------------------*/
+
+svg{
+    height: 35px;
+}
+
+.icons{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 15px;
+margin-top: 30px;
+
+
+}
+
+
+footer{
+padding: 5px 0px;
+margin-top: 200px;
+background: rgb(223, 213, 213);
+
+
+}
+
+.info{
+
+display: block;
+text-align: center;
+margin-top: 50px;
+font-weight: 700;
+font-family: 'Inter', sans-serif;
+}
+
+.info-support-marketing, .privacy, .data{
+margin: 20px 0px
+}
+
+.data{
+color: rgb(114, 114, 114);
+}
+
+
+
