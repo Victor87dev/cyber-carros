@@ -44,7 +44,8 @@ nav{
 }
 
 img{
-    height:123px ;
+    height:45px ;
+    margin-left: 20px;
 }
 
 .a-menu:hover{
@@ -93,7 +94,14 @@ img{
     margin-top: 30px;
     border-radius: 20px;
     box-shadow: 2px 2px 10px #000;
+    object-fit: cover;
+    transition: 0.4s;
+    cursor: pointer;
     
+}
+
+.img-mustang:hover{
+    transform: scale(1.2);
 }
 
 .title-mustang{
@@ -195,8 +203,17 @@ input{
     border-radius: 20px;
     box-shadow: 2px 2px 10px #000;
     margin-right: 22px;
+    object-fit: cover;
+    transition: 0.4s;
+    cursor: pointer;
     
 }
+
+.img-civic:hover{
+    transform: scale(1.2);
+}
+
+
 
 .title-civic{
     font-family: 'Inter', sans-serif;
@@ -297,8 +314,16 @@ input{
     margin-top: 30px;
     border-radius: 20px;
     box-shadow: 2px 2px 10px #000;
-    
+    object-fit: cover;
+    transition: 0.4s;
+    cursor: pointer;
 }
+
+
+.img-audir8:hover{
+    transform: scale(1.2);
+}
+
 
 .title-audir8{
     font-family: 'Inter', sans-serif;
@@ -399,7 +424,14 @@ input{
     border-radius: 20px;
     box-shadow: 2px 2px 10px #000;
     margin-right: 22px;
+    object-fit: cover;
+    transition: 0.4s;
+    cursor: pointer;
     
+}
+
+.img-porsche:hover{
+    transform: scale(1.2);
 }
 
 .title-porsche{
@@ -501,7 +533,14 @@ input{
     margin-top: 30px;
     border-radius: 20px;
     box-shadow: 2px 2px 10px #000;
+    object-fit: cover;
+    transition: 0.4s;
+    cursor: pointer;
     
+}
+
+.img-bmwi8:hover{
+    transform: scale(1.2);
 }
 
 .title-bmwi8{

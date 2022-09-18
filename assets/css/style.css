@@ -46,7 +46,8 @@ h1{
 }
 
 img{
-    height:123px ;
+    height:45px ;
+    margin-left: 20px;
 }
 
 .a-menu:hover{
@@ -59,9 +60,15 @@ img{
     background: url(/assets/img/carros2.jpg) no-repeat center;
     height: 350px;
     background-size: cover;
-  
+
 }
- 
+
+.caixa-text{
+    margin-top: -320px;
+    margin-left: 60px;
+
+}
+
 
 
 span{
@@ -69,32 +76,18 @@ span{
 }
 
 .text-banner{
-    font-size: 40px;
-    z-index: 9;
-}
-
-.title{
-    margin-top: -20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 200px;
-    border-bottom: 5px solid #fff;
+    font-size: 50px;
+    font-family: 'Inter', sans-serif;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
     
+
 }
 
-h1{
-    text-shadow: 4px 4px 8px rgb(0, 0, 0);
-   
-    letter-spacing: 4px;
-    color: #fff;
-    font-size: 35px;
-}
 
 .novidades{
     
     height: 90px;
-    margin: 80px 0px 0px 20px;
+    margin: 400px 0px 0px 20px;
     
 }
 

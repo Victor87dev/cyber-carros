@@ -44,7 +44,8 @@ nav{
 }
 
 img{
-    height:123px ;
+    height:45px ;
+    margin-left: 20px;
 }
 
 .a-menu:hover{
@@ -94,7 +95,13 @@ img{
     margin-top: 30px;
     border-radius: 20px;
     box-shadow: 2px 2px 10px #000;
-    
+    object-fit: cover;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.img-onix:hover{
+    transform: scale(1.2);
 }
 
 .title-onix{
@@ -196,7 +203,13 @@ input{
     border-radius: 20px;
     box-shadow: 2px 2px 10px #000;
     margin-right: 22px;
-    
+    object-fit: cover;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.img-hb20:hover{
+    transform: scale(1.2);
 }
 
 .title-hb20{
@@ -297,7 +310,13 @@ input{
     margin-top: 30px;
     border-radius: 20px;
     box-shadow: 2px 2px 10px #000;
-    
+    object-fit: cover;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.img-sandero:hover{
+    transform: scale(1.2);
 }
 
 .title-sandero{
@@ -399,7 +418,13 @@ input{
     border-radius: 20px;
     box-shadow: 2px 2px 10px #000;
     margin-right: 22px;
-    
+    object-fit: cover;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.img-hb20s:hover{
+    transform: scale(1.2);
 }
 
 .title-hb20s{
@@ -500,7 +525,13 @@ input{
     margin-top: 30px;
     border-radius: 20px;
     box-shadow: 2px 2px 10px #000;
-    
+    object-fit: cover;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.img-cobalt:hover{
+    transform: scale(1.2);
 }
 
 .title-cobalt{

@@ -45,7 +45,8 @@ nav{
 }
 
 img{
-    height:123px ;
+    height:45px ;
+    margin-left: 20px;
 }
 
 .a-menu:hover{
