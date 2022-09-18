@@ -86,8 +86,21 @@ h1{
 .buttons-execultivos-esportivos{
     display: flex;
     justify-content: center;
-    gap: 60.5px;
+    
 }
+
+.button-esportivos-individual{
+    margin-left: 78px;
+    margin-top: 20px;
+    
+}
+
+.button-executivos-individual{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
 
 .caixa-execultivos, .caixa-esportivos{
     
@@ -133,10 +146,24 @@ h1{
 
 
 
+
 .buttons-populares-4x4{
     display: flex;
     justify-content: center;
-    gap: 59.5px;
+    
+}
+
+
+
+.button-4x4-individual{
+    margin-left: 78px;
+    margin-top: 20px;
+    
+}
+
+.button-populares-individual{
+    margin-top: 20px;
+    margin-left: 20px;
 }
 
 .caixa-populares, .caixa-4x4{
@@ -154,10 +181,12 @@ h1{
 
 .caixa-populares{
     padding: 20px 188px;
+    
 }
 
 .caixa-4x4{
     padding: 20px 209px;
+   
 }
 
 .caixa-populares:hover{
