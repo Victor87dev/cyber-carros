@@ -10,3 +10,5 @@ Projeto criado para apresentar no curso
 ### 💻 Descrição
 
 Pagina para treinar o uso do FIGMA HTML e CSS 
+
+# Obrigado por visitar o projeto! 💙
